@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - pUnit
+  - pTower
+  - eUnit
+  - eTower
+  - PBase
+  - EBase
+  - Projectile
+  - Button
+  - Barracks
+  - Stables
+  - FlyingPig
+  - SwordArm
+  - Giraffe
+  - Armory
+  - Fletcher
+  - Tavern
+  - Swordman
+  - Horse Archer
+  - NinjaBox
+  - Spearman
+  - Slinger
+  - Chariot
+  - Knight
+  - Pig Charge
+  - aTower
+  - Catapult
+  - Giant
+  - Sharkwheel
+  - antiBase
+  - Brain Tank
+  - Helicopter Rat
+  - Rocket Guy
+  - Arrow
+  - Sword Spin
+  - Sword Slash
+  - Giraffe Lick
+  - Spear Thrust
+  - Chariot Charge
+  - brainTankBullet
+  - Throwing Star
+  - Rat Bullet
+  - Knight Lance
+  - Flipoff
+  - GiantPunch
+  - Shark Bite
+  - Sling Rock
+  - TGiant
+  - TG Punch
+  - Musketman
+  - Grenadier
+  - PU3
+  - PU4
+  - Musket Bullet
+  - Grenade
+  - PU3Bullet
+  - PU4Bullet
+  - REU1
+  - REU1 Bullet
+  - REU2
+  - REU2 Bullet
+  - 'REU3 '
+  - REU3 Bullet
+  - REU4
+  - REU4 Bullet
+  - Arsenal
+  - Cannon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Units
+  - Towers
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Map
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3877836947
+    locked: 0
+  - name: Towers
+    uniqueID: 525176275
+    locked: 0
+  - name: UI
+    uniqueID: 1260452795
+    locked: 0
+  - name: Units
+    uniqueID: 4257272211
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2386581653
+    locked: 0
